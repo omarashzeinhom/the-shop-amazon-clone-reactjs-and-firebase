@@ -1,6 +1,6 @@
 <div id="top"></div>
-[![LinkedIn][linkedin-shield]](www.linkedin/in/omarzeinhom)
 
+[![LinkedIn][linkedin-shield]](www.linkedin/in/omarzeinhom)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -61,9 +61,10 @@ You need to add a firebase auth and firestore database for it to display data an
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://oa-gaming-blog.vercel.app/)
-
-This is a graphcms blog , that uses api interface for authentication with next js , it has no database however the users are stored on the graphql api graphcms.
+This is an amazon clone that has the ability to add products
+to cart and adding a counter
+aswell as calculating the prices of the products added
+it also has a sign in and signout aswell as a register and login page without losing user on refersh
 
 Use the `BLANK_README.md` to get started.
 
@@ -95,7 +96,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 - npm
   ```sh
-  npm install npm@latest -g
+  npm install --global yarn
   ```
 
 ### Installation
@@ -104,9 +105,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
    FireBase: [https://firebase.google.com/](https://firebase.google.com/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/omarashzeinhom/gaming-graphcms-blog-auth
+   git clone https://github.com/omarashzeinhom/Theshop-amazon-clone-ReactJS-and-Firebase
    ```
-3. Install NPM packages
+3. Install Yarn packages
    ```sh
    yarn install
    ```
@@ -176,7 +177,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/omarashzeinhom/gaming-graphcms-blog-auth](https://github.com/omarashzeinhom/gaming-graphcms-blog-auth)
+Project Link: [https://github.com/omarashzeinhom/Theshop-amazon-clone-ReactJS-and-Firebase](https://github.com/omarashzeinhom/Theshop-amazon-clone-ReactJS-and-Firebase)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
