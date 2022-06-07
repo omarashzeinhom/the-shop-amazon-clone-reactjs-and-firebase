@@ -1,0 +1,43 @@
+.payment {
+  background-color: #461220;
+  background-image: linear-gradient(315deg, #461220 0%, #e0d4ae 74%);
+}
+
+.payment > p {
+  color: white;
+}
+.payment > h1 {
+  color: white;
+  background-color: #e0d4ae;
+  border-bottom: 1px solid rgb(255, 254, 254);
+  font-weight: 500;
+  padding: 10px;
+  font-size: 1.7rem;
+}
+
+.payment > h1 a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.7rem;
+}
+
+.payment__section {
+  display: flex;
+  padding: 20px;
+  margin: 0 20px;
+  padding-bottom: 20px;
+}
+
+.payment__items {
+  text-align: center;
+}
+
+.payment__title {
+  flex: 0.2;
+  /* The title is going to take 20% of the flex*/
+}
+
+.payment__address {
+  /* The title is going to take 80% of the flex*/
+  flex: 0.8;
+}

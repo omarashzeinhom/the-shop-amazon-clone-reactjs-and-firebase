@@ -1,0 +1,41 @@
+/*
+ *
+ * CSS written based on SMACSS architecture.
+ * To learn more, visit: http://smacss.com/
+ * 
+ * For simplicity, no reset or normalize is added. 
+ * To learn more, visit: https://css-tricks.com/reboot-resets-reasoning/
+ *
+*/
+
+/** Import Fonts **/
+
+
+/* ---- Base Rules ---- */
+
+html {
+    
+    /**Chrome Rules for Hiding scrollbar*/
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+/**Chrome Rules for Hiding scrollbar*/
+
+}
+html::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+  -ms-overflow-style: none;
+  scrollbar-width: none; /* Firefox */
+}
+
+/* --- Layout Rules --- LibrosMainPage.js for example */
+
+/* --- Modules --- SearchPage.js  for example which in it some action happens*/
+
+/*  Top Menu Styles Start */
+
+/*  Top Menu Styles end*/
+
+/* --- State Rules ---*/
+
+/* --- Theme rules ---*/
+
