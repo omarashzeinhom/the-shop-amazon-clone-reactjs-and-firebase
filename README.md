@@ -1,8 +1,6 @@
 <div id="top"></div>
-
 [![LinkedIn][linkedin-shield]](www.linkedin/in/omarzeinhom)
 
-[![LinkedIn][linkedin-shield]](www.linkedin/in/omarzeinhom)
 <!-- PROJECT LOGO -->
 <br />
 
